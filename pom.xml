@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>test-docker-prop</artifactId>
+	<artifactId>test-docker-app1</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule test-docker-prop Application</name>
+	<name>Mule test-docker-app1 Application</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
